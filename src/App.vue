@@ -24,7 +24,7 @@
           </ul>
           <ul class="navbar-nav ms-auto mb-2 mb-lg-0" role="search">
             <a
-              href="https://santrikoding.com"
+              href="https://giatechindo.com"
               target="_blank"
               class="btn btn-success"
               >Giataechindo</a
